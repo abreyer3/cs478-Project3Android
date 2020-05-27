@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Project3-A2</string>
+    <string-array name="Attractions">
+        <item>The Art Institute of Chicago</item>
+        <item>Museum of Science and Industry</item>
+        <item>360 Chicago Observation Deck</item>
+        <item>Millennium Park</item>
+        <item>Field Museum</item>
+        <item>Wrigley Field</item>
+        <item>Lincoln Park Zoo</item>
+        <item>Navy Pier</item>
+    </string-array>
+    <string-array name="AttractionsUrl">
+        <item>https://www.artic.edu/</item>
+        <item>https://www.msichicago.org/</item>
+        <item>https://360chicago.com/</item>
+        <item>https://www.chicago.gov/city/en/depts/dca/supp_info/millennium_park.html</item>
+        <item>https://www.fieldmuseum.org/</item>
+        <item>https://www.mlb.com/cubs/ballpark</item>
+        <item>https://www.lpzoo.org/</item>
+        <item>https://navypier.org/</item>
+    </string-array>
+    <string-array name="Restaurants">
+        <item>Spacca Napoli</item>
+        <item>Topo Gigio Ristorante</item>
+        <item>Steak 48</item>
+        <item>Frontera Grill</item>
+        <item>Shanghai Terrace</item>
+        <item>The Smoke Daddy</item>
+    </string-array>
+    <string-array name="RestaurantsUrl">
+        <item>https://www.spaccanapolipizzeria.com/</item>
+        <item>https://www.topogigiochicago.com/</item>
+        <item>https://www.steak48.com/</item>
+        <item>https://www.rickbayless.com/restaurants/frontera-grill/</item>
+        <item>https://www.peninsula.com/en/chicago/hotel-fine-dining/shanghai-terrace-cantonese</item>
+        <item>https://www.thesmokedaddy.com/</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
